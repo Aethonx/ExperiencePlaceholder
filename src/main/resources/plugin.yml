@@ -1,0 +1,5 @@
+name: ExperiencePlaceholder
+author: Aethonx
+version: 1.0.0
+main: io.shaded.placeholder.ExperiencePlaceholderPlugin
+description: Placeholder formatting plugin.
