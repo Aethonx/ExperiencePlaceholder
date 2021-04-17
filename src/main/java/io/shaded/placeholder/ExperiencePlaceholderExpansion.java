@@ -19,10 +19,10 @@ public final class ExperiencePlaceholderExpansion extends PlaceholderExpansion {
 	}
 
 	private static final String THOUSANDS_SUFFIX = "k";
-	private static final String MILLIONS_SUFFIX = "m";
-	private static final String BILLIONS_SUFFIX = "b";
-	private static final String TRILLIONS_SUFFIX = "t";
-	private static final String QUADRILLIONS = "q";
+	private static final String MILLIONS_SUFFIX = "M";
+	private static final String BILLIONS_SUFFIX = "B";
+	private static final String TRILLIONS_SUFFIX = "T";
+	private static final String QUADRILLIONS = "Q";
 
 	public ExperiencePlaceholderExpansion() {
 	}
